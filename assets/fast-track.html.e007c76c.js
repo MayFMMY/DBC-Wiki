@@ -1,0 +1,1 @@
+const t={key:"v-7ddec216",path:"/en/staking-model/fast-track.html",title:"Fast-track Process",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644314374e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:3}]},filePathRelative:"en/staking-model/fast-track.md"};export{t as data};

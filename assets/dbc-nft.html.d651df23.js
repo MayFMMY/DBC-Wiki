@@ -1,0 +1,1 @@
+const e={key:"v-1e28b9c4",path:"/en/dbc-democracy/dbc-nft.html",title:"How to apply for DBC NFT from DBC Council?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164247665e4,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-democracy/dbc-nft.md"};export{e as data};

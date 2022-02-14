@@ -1,0 +1,1 @@
+const e={key:"v-3b0525fc",path:"/en/dbc-democracy/join-council.html",title:"How to participate in Council voting? A step by step guide",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164247499e4,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-democracy/join-council.md"};export{e as data};

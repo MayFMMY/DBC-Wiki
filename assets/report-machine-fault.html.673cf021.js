@@ -1,0 +1,1 @@
+const e={key:"v-d8b1182a",path:"/en/onchain-guide/report-machine-fault.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164431473e4,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/onchain-guide/report-machine-fault.md"};export{e as data};

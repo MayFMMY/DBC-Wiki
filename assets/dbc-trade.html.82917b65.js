@@ -1,0 +1,1 @@
+const t={key:"v-d5396646",path:"/en/dbc-introduction/dbc-trade.html",title:"Trading DBC",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642404397e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/dbc-introduction/dbc-trade.md"};export{t as data};

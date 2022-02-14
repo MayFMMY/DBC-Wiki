@@ -1,0 +1,1 @@
+const a={key:"v-4c547a2c",path:"/en/dbc-information/dbc-ama/council-ama.html",title:"DeepBrain Chain Council Launch & On-Chain Governance AMA",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642473895e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-information/dbc-ama/council-ama.md"};export{a as data};

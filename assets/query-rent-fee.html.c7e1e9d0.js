@@ -1,0 +1,1 @@
+const e={key:"v-c49953d2",path:"/en/onchain-guide/query-rent-fee.html",title:"Query machine historical orders and rent",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164154497e4,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/onchain-guide/query-rent-fee.md"};export{e as data};

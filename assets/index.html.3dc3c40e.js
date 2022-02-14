@@ -1,0 +1,1 @@
+const t={key:"v-372f1ed0",path:"/install-update-dbc-node/install-update-dbc/",title:"\u5B89\u88C5\u548C\u5347\u7EA7DBC\u8282\u70B9",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641686595e3,contributors:[{name:"cuijg",email:"bacuijg@163.com",commits:2}]},filePathRelative:"install-update-dbc-node/install-update-dbc/README.md"};export{t as data};

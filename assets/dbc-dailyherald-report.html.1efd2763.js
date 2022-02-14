@@ -1,0 +1,1 @@
+const e={key:"v-64b54f72",path:"/en/dbc-information/dbc-report/dbc-dailyherald-report.html",title:"Business News and Information",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642408073e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-information/dbc-report/dbc-dailyherald-report.md"};export{e as data};

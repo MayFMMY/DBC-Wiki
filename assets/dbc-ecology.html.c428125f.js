@@ -1,0 +1,1 @@
+const e={key:"v-eb5e568a",path:"/en/dbc-introduction/dbc-ecology.html",title:"DBC Ecology",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642404397e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/dbc-introduction/dbc-ecology.md"};export{e as data};

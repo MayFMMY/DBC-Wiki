@@ -1,0 +1,1 @@
+const e={key:"v-0b463e7a",path:"/en/dbc-information/dbc-progress/2021-01-01.html",title:"2020 End of Year Report",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642070302e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/dbc-information/dbc-progress/2021-01-01.md"};export{e as data};

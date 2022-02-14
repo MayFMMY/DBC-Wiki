@@ -1,0 +1,1 @@
+const t={key:"v-3779b486",path:"/en/dbc-information/dbc-ama/dbc-hot-link.html",title:"DBC Hot Link",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642477005e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:3}]},filePathRelative:"en/dbc-information/dbc-ama/dbc-hot-link.md"};export{t as data};

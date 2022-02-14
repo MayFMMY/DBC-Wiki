@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,d as o}from"./app.1d293cd3.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const c={},s={id:"dbc-ama-readme",tabindex:"-1"},d=t("a",{class:"header-anchor",href:"#dbc-ama-readme","aria-hidden":"true"},"#",-1),_=o(" DBC AMA README"),n=[d,_];function i(h,m){return e(),a("h1",s,n)}var x=r(c,[["render",i]]);export{x as default};

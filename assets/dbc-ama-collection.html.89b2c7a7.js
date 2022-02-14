@@ -1,0 +1,1 @@
+const a={key:"v-001c79d6",path:"/dbc-information/dbc-ama/dbc-ama-collection.html",title:"DBC AMA \u95EE\u7B54\u96C6\u5408",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164247451e4,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:3}]},filePathRelative:"dbc-information/dbc-ama/dbc-ama-collection.md"};export{a as data};

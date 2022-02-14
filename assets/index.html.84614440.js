@@ -1,0 +1,1 @@
+const e={key:"v-7f649e2a",path:"/en/onchain-guide/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u76EE\u5F55",slug:"\u76EE\u5F55",children:[]}],git:{updatedTime:1639652847e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/onchain-guide/README.md"};export{e as data};

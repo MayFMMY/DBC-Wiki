@@ -1,0 +1,1 @@
+const a={key:"v-5c5e0bb2",path:"/en/dbc-information/dbc-ama/galaxy-ama.html",title:"DBC Mainnet Launch and Galaxy Race AMA",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642473895e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-information/dbc-ama/galaxy-ama.md"};export{a as data};

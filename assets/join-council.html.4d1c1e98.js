@@ -1,0 +1,1 @@
+const e={key:"v-3bdb86e0",path:"/dbc-democracy/join-council.html",title:"DBC \u7406\u4E8B\u4F1A\u53C2\u9009\u6D41\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640874541e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:4}]},filePathRelative:"dbc-democracy/join-council.md"};export{e as data};

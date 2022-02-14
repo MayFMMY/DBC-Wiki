@@ -1,0 +1,1 @@
+const e={key:"v-9455d0aa",path:"/onchain-guide/query-rent-fee.html",title:"\u67E5\u8BE2\u673A\u5668\u5386\u53F2\u8BA2\u5355\u53CA\u79DF\u91D1",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641467464e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"onchain-guide/query-rent-fee.md"};export{e as data};

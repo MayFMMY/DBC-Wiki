@@ -1,0 +1,1 @@
+const t={key:"v-0af926c7",path:"/dbc-information/dbc-progress/2020.html",title:"2020 \u5E74\u53CC\u5468\u62A5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642071511e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"dbc-information/dbc-progress/2020.md"};export{t as data};

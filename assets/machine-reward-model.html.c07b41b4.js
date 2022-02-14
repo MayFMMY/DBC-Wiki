@@ -1,0 +1,1 @@
+const e={key:"v-009ea3c6",path:"/en/onchain-guide/machine-reward-model.html",title:"Machine reward model",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641540068e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/onchain-guide/machine-reward-model.md"};export{e as data};

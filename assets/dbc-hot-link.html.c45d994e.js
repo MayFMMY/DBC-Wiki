@@ -1,0 +1,1 @@
+const t={key:"v-cab7d95e",path:"/dbc-information/dbc-ama/dbc-hot-link.html",title:"DBC \u5E38\u7528\u94FE\u63A5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642477005e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:4}]},filePathRelative:"dbc-information/dbc-ama/dbc-hot-link.md"};export{t as data};
